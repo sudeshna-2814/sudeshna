@@ -1,0 +1,4 @@
+para = input("enter a paragraph: ")
+words = para.split()
+words_count = len(words)
+print("number of words in the paregraph:",word_count)
